@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "673885b17cb0821612dfacba"
+  },
+  "name": "Nike Air Max",
+  "brand": "Nike",
+  "description": "Cushioned running shoes with a durable design.",
+  "price": 120,
+  "image": "http://surl.li/aishha",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673887ec7cb0821612dfacbc"
+  },
+  "name": "Adidas UltraBoost",
+  "brand": "Adidas",
+  "description": "Energy-returning running shoes with a sleek look.",
+  "price": 80,
+  "image": "http://surl.li/urcrzl",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6738890a7cb0821612dfacbe"
+  },
+  "name": "Puma Suede Classic",
+  "brand": "Puma",
+  "description": "Iconic casual shoes with a comfortable fit.",
+  "price": 80,
+  "image": "http://surl.li/rqkuej",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673889497cb0821612dfacc0"
+  },
+  "name": "Reebok Classic Leather",
+  "brand": "Reebok",
+  "description": "Stylish and comfortable everyday sneakers.",
+  "price": 70,
+  "image": "http://surl.li/dlasft",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673889777cb0821612dfacc2"
+  },
+  "name": "New Balance 990v5",
+  "brand": "New Balance",
+  "description": "High-performance running shoes with superior cushioning.",
+  "price": 180,
+  "image": "http://surl.li/ewpsyb",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673889a17cb0821612dfacc4"
+  },
+  "name": "ASICS Gel-Kayano",
+  "brand": "ASICS",
+  "description": "Supportive running shoes with GEL cushioning.",
+  "price": 160,
+  "image": "http://surl.li/rbzjap",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673889c37cb0821612dfacc6"
+  },
+  "name": "Under Armour HOVR Phantom",
+  "brand": "Under Armour",
+  "description": "Comfortable and responsive running shoes.",
+  "price": 140,
+  "image": "http://surl.li/xakmla",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673889e97cb0821612dfacc8"
+  },
+  "name": "Converse Chuck Taylor All Star",
+  "brand": "Converse",
+  "description": "Classic high-top sneakers with a timeless design.",
+  "price": 60,
+  "image": "http://surl.li/ydrdcl",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388a0b7cb0821612dfacca"
+  },
+  "name": "Vans Old Skool",
+  "brand": "Vans",
+  "description": "Iconic skate shoes with a durable construction.",
+  "price": 65,
+  "image": "http://surl.li/ekpcpp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388a3f7cb0821612dfaccc"
+  },
+  "name": "Sketchers D'Lites",
+  "brand": "Sketchers",
+  "description": "Lightweight and comfortable sneakers.",
+  "price": 55,
+  "image": "http://surl.li/juajxc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388a6e7cb0821612dfacce"
+  },
+  "name": "Fila Disruptor II",
+  "brand": "Fila",
+  "description": "Chunky sneakers with a bold design.",
+  "price": 70,
+  "image": "http://surl.li/kdoyki",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388a997cb0821612dfacd0"
+  },
+  "name": "Nike Air Force 1",
+  "brand": "Nike",
+  "description": "Classic basketball shoes with a stylish design.",
+  "price": 90,
+  "image": "http://surl.li/qsvqtj",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388abe7cb0821612dfacd2"
+  },
+  "name": "Adidas Stan Smith",
+  "brand": "Adidas",
+  "description": "Classic tennis shoes with a minimalist design.",
+  "price": 85,
+  "image": "http://surl.li/rfdxvw",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388ae87cb0821612dfacd4"
+  },
+  "name": "Puma RS-X",
+  "brand": "Puma",
+  "description": "Retro-inspired sneakers with a modern twist.",
+  "price": 110,
+  "image": "http://surl.li/zulnkr",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388b117cb0821612dfacd6"
+  },
+  "name": "Reebok Club C 85",
+  "brand": "Reebok",
+  "description": "Classic court shoes with a clean design.",
+  "price": 75,
+  "image": "http://surl.li/unafsv",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388b3f7cb0821612dfacd8"
+  },
+  "name": "New Balance 574",
+  "brand": "New Balance",
+  "description": "Classic running shoes with a comfortable fit.",
+  "price": 80,
+  "image": "http://surl.li/pzzcjp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388b607cb0821612dfacda"
+  },
+  "name": "ASICS GT-2000",
+  "brand": "ASICS",
+  "description": "Supportive running shoes with advanced technology.",
+  "price": 130,
+  "image": "http://surl.li/ufawtx",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388b807cb0821612dfacdc"
+  },
+  "name": "Under Armour Charged Rogue",
+  "brand": "Under Armour",
+  "description": "Versatile running shoes with Charged Cushioning.",
+  "price": 100,
+  "image": "http://surl.li/uvkpqv",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388ba37cb0821612dfacde"
+  },
+  "name": "Converse Jack Purcell",
+  "brand": "Converse",
+  "description": "Casual sneakers with a stylish design.",
+  "price": 70,
+  "image": "http://surl.li/ryeioi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67388bc87cb0821612dface0"
+  },
+  "name": "Vans Slip-On",
+  "brand": "Vans",
+  "description": "Comfortable slip-on shoes with a timeless design.",
+  "price": 50,
+  "image": "http://surl.li/vsuvnt",
+  "__v": 0
+}]

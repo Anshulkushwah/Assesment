@@ -1,0 +1,14 @@
+const express = require("express");
+const router = express.Router();
+
+// Import the controller
+const { CreateShoeDetail } = require("../controller/CreateShoeDetail");
+const {getAllProducts,getProductById } = require("../controller/ProductControler")
+
+// Define API routes
+router.post("/create", CreateShoeDetail);
+router.get("/products", getAllProducts);
+router.get("/products/:id", getProductById);
+
+
+module.exports = router;
